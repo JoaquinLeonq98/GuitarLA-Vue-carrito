@@ -1,8 +1,42 @@
 # Vue 3 + Vite
+Primer proyecto usando Vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Link del proyecto: https://guitarla-vue-carrito.netlify.app/
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
 # GuitarLA-Vue-carrito
+En este proyecto se aborda el problema y la situación de crear un carrito de compras dinamico y que se mantenga en memoria usando el local storage.
+
+Durante este proyecto se aprendió y se realizó lo siguiente: 
+
+- Componentes 
+- State con ref y Reactive aunque en este proyecto se usa solo ref
+- Eventos 
+- Custom Events
+- Props 
+- Emits 
+- Directivas 
+- watch
+- Computed 
+
+---
+# Vista general del proyecto
+![alt text](./src/assets/image.png)
+![alt text](./src/assets/image2.png)
+
+---
+
+# Documentación 
+
+para poder instalar las dependencias y poder trabajar, contribuir o mejorar este proyecto, basta con hacer un fork a este repositorio y usar este comando
+
+``` node
+npm i  
+```
+
+---
+
+### Las tecnologías usadas en este proyecto son las siguientes: 
+
+- nodejs v22.1.0
+- Vue v3.4.27
+- vite v5.2.0
